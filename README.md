@@ -1,2 +1,2 @@
 # Python
-Create python programs
+Are you ready to cr0eate python GUI programs...
